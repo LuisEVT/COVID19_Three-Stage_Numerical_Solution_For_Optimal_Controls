@@ -1,1 +1,8 @@
-# COVID19_Three-Stage_Numerical_Solution_For_Optimal_Controls
+# COVID19: Three-Stage Numerical Solution For Optimal Controls
+
+
+## Contribution
+- @[christhron](https://github.com/christhron)
+
+## Publication
+TBA
