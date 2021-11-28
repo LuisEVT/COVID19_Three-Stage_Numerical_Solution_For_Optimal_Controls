@@ -5,4 +5,4 @@
 - @[christhron](https://github.com/christhron)
 
 ## Publication
-TBA
+<a href = 'https://www.mdpi.com/2227-7390/9/15/1777'> Three-Stage Numerical Solution for Optimal Control of COVID-19 </a>
